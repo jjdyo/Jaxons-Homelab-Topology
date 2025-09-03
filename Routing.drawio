@@ -80,10 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EL7aKV-9iKLkWUwx_ZyF-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="890" width="790" height="450" as="geometry" />
+          <mxGeometry x="-10" y="890" width="990" height="450" as="geometry" />
         </mxCell>
         <mxCell id="EL7aKV-9iKLkWUwx_ZyF-26" value="Laravel Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="850" y="900" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EL7aKV-9iKLkWUwx_ZyF-27" value="Application Instantize" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="700" width="120" height="30" as="geometry" />
@@ -157,7 +157,7 @@
             <mxPoint x="214.71" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EL7aKV-9iKLkWUwx_ZyF-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.101;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EL7aKV-9iKLkWUwx_ZyF-41" target="EL7aKV-9iKLkWUwx_ZyF-25">
+        <mxCell id="EL7aKV-9iKLkWUwx_ZyF-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.081;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EL7aKV-9iKLkWUwx_ZyF-41" target="EL7aKV-9iKLkWUwx_ZyF-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="1230" as="sourcePoint" />
             <mxPoint x="120" y="1180" as="targetPoint" />
